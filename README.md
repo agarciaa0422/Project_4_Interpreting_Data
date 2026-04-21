@@ -25,6 +25,7 @@ This work was completed for Risk Averse, LLC, an independent risk analysis consu
 * **`NRI_Shapefile_CensusTracts.shp`**       - NRI shapefile (+ companion files) [CANNOT be uploaded due to "large files"]
 * **`Project4_Cleaned_Louisiana.csv`**       - Cleaned & scored output – Louisiana
 * **`Project4_Cleaned_Virginia.csv`**        - Cleaned & scored output – Virginia
+* **`Project4Report_GroupF.pdf`**            - Written Report
 
 
 ---

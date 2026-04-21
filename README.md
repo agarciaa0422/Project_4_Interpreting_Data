@@ -26,7 +26,7 @@ This work was completed for Risk Averse, LLC, an independent risk analysis consu
 * **`Project4_Cleaned_Louisiana.csv`**       - Cleaned & scored output – Louisiana
 * **`Project4_Cleaned_Virginia.csv`**        - Cleaned & scored output – Virginia
 * **`Project4Report_GroupF.pdf`**            - Written Report
-
+* **`NRI_Gantt_Chart_v2.pdf`**               - Has Gantt Chart with the Timesheet included
 
 ---
 

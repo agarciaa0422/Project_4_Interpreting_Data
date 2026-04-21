@@ -7,8 +7,8 @@
 
 ## Overview
 
-This project analyzes and compares natural hazard risk across **Louisiana** and **Virginia** using data from FEMA's National Risk Index (NRI) and the CDC/ATSDR Social Vulnerability Index (SVI). We develop an alternative risk scoring method called **SPCHL (Socially-weighted Per-Capita Hazard Loss)** and compare it against the NRI's official risk definitions to identify potential bias in how risk is categorized across communities.
-This work was completed for **Risk Averse, LLC**, an independent risk analysis consulting group.
+This project analyzes and compares natural hazard risk across Louisiana and Virginia using data from FEMA's National Risk Index (NRI) and the CDC/ATSDR Social Vulnerability Index (SVI). We develop an alternative risk scoring method called SPCHL (Socially-weighted Per-Capita Hazard Loss) and compare it against the NRI's official risk definitions to identify potential bias in how risk is categorized across communities.
+This work was completed for Risk Averse, LLC, an independent risk analysis consulting group.
 
 ---
 

@@ -56,7 +56,8 @@ pip install pandas numpy matplotlib seaborn geopandas
 1. Download this repository
 2. Place all data files in the same folder as the notebook
 3. Open `Project4_CIVE202_SP26.ipynb` in Jupyter Notebook
-4. Run all cells!
+4. Run all cells
+5. Have Fun!!!
 ---
 
 ## Our Alternative Risk Score: SPCHL

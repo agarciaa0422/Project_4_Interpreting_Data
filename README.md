@@ -16,7 +16,7 @@ This work was completed for Risk Averse, LLC, an independent risk analysis consu
 ## Repository Contents
 
 * **`Project4_CIVE202_SP26.ipynb`**         - Main Python code file
-* **`Project4_ACD.xlsx`**         - Annotated Code Document
+* **`Project4_Annotated_Code.xlsx`**         - Annotated Code Document
 * **`NRI_Table_CensusTracts_Louisiana.csv`** - Raw NRI data – Louisiana
 * **`NRI_Table_CensusTracts_Virginia.csv`**  - Raw NRI data – Virginia
 * **`Louisiana.csv`**                        - Raw SVI data – Louisiana

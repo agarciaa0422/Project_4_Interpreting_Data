@@ -90,7 +90,7 @@ We define risk as a weighted combination of the three most relevant hazards for 
 
 ## Key Outputs
 
-- **4 Summary Sables** comparing NRI and SPCHL scores at the state and county level
+- **4 Summary Tables** comparing NRI and SPCHL scores at the state and county level
 - **4 Bar Chart Figures** comparing risk score distributions by county
 - **4 GeoPandas maps** — one per state per scoring method
 - **2 cleaned CSV files** with all scores for Louisiana and Virginia

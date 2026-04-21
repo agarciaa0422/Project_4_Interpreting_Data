@@ -22,7 +22,7 @@ This work was completed for Risk Averse, LLC, an independent risk analysis consu
 * **`Louisiana.csv`**                        - Raw SVI data – Louisiana
 * **`Virginia.csv`**                         - Raw SVI data – Virginia
 * **`NRIDataDictionary.csv`**                - NRI variable definitions
-* **`NRI_Shapefile_CensusTracts.shp`**       - NRI shapefile (+ companion files)
+* **`NRI_Shapefile_CensusTracts.shp`**       - NRI shapefile (+ companion files) [CANNOT be uploaded due to "large files"]
 * **`Project4_Cleaned_Louisiana.csv`**       - Cleaned & scored output – Louisiana
 * **`Project4_Cleaned_Virginia.csv`**        - Cleaned & scored output – Virginia
 

@@ -72,9 +72,13 @@ We define risk as a weighted combination of the three most relevant hazards for 
 | Step | Formula | Reason |
 ---
 | 1. Hazard Risk | `AFREQ × EALB` per hazard | Frequency × Impact (same as NRI method) |
+
 | 2. Weighted Combined | `0.40 × hurricane + 0.40 × flood + 0.20 × tornado` | Focuses on hazards most relevant to both states |
+
 | 3. Per Capita | `combined_risk / (population + 1)` | Reveals risk to individuals, not just aggregate dollar loss |
+
 | 4. SVI Amplifier | `risk_per_capita × (1 + RPL_THEMES)` | Communities with higher vulnerability face greater real-world impact |
+
 | 5. Normalize | `(value - min) / (max - min) × 100` | Converts to 0–100 scale for direct comparison with NRI |
 
 **Hazard Weights:**

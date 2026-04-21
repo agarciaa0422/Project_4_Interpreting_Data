@@ -8,7 +8,6 @@
 ## Overview
 
 This project analyzes and compares natural hazard risk across **Louisiana** and **Virginia** using data from FEMA's National Risk Index (NRI) and the CDC/ATSDR Social Vulnerability Index (SVI). We develop an alternative risk scoring method called **SPCHL (Socially-weighted Per-Capita Hazard Loss)** and compare it against the NRI's official risk definitions to identify potential bias in how risk is categorized across communities.
-
 This work was completed for **Risk Averse, LLC**, an independent risk analysis consulting group.
 
 ---
@@ -56,18 +55,16 @@ This work was completed for **Risk Averse, LLC**, an independent risk analysis c
 Install the required Python packages before running the notebook:
 
 ```bash
-pip install pandas numpy matplotlib seaborn geopandas pillow
+pip install pandas numpy matplotlib seaborn geopandas
 ```
 
 ### Steps
 
-1. Clone or download this repository
+1. Download this repository
 2. Place all data files in the same folder as the notebook
-3. Open `Garcia_Project4_Final.ipynb` in Jupyter Notebook or JupyterLab
-4. Run all cells top to bottom using **Kernel → Restart & Run All**
-
-> **Note:** The maps section (Section 9) requires the NRI Shapefile. All companion files (`.dbf`, `.prj`, `.shx`, `.cpg`, `.sbn`, `.sbx`) must be in the same folder as the `.shp` file.
-
+3. Open `Garcia_Project4_Final.ipynb` in Jupyter Notebook
+4. Run all cells!
+5. 
 ---
 
 ## Our Alternative Risk Score: SPCHL
@@ -82,7 +79,7 @@ The NRI produces a composite dollar-value loss estimate across all 18 hazard typ
 We define risk as a weighted combination of the three most relevant hazards for Louisiana and Virginia, normalized per person and amplified by social vulnerability:
 
 | Step | Formula | Reason |
-|---|---|---|
+---
 | 1. Hazard Risk | `AFREQ × EALB` per hazard | Frequency × Impact (same as NRI method) |
 | 2. Weighted Combined | `0.40 × hurricane + 0.40 × flood + 0.20 × tornado` | Focuses on hazards most relevant to both states |
 | 3. Per Capita | `combined_risk / (population + 1)` | Reveals risk to individuals, not just aggregate dollar loss |
@@ -98,9 +95,9 @@ We define risk as a weighted combination of the three most relevant hazards for 
 
 ## Key Outputs
 
-- **4 summary tables** comparing NRI and SPCHL scores at the state and county level
-- **4 bar chart figures** comparing risk score distributions by county
-- **4 GeoPandas choropleth maps** — one per state per scoring method
+- **4 Summary Sables** comparing NRI and SPCHL scores at the state and county level
+- **4 Bar Chart Figures** comparing risk score distributions by county
+- **4 GeoPandas maps** — one per state per scoring method
 - **2 cleaned CSV files** with all scores for Louisiana and Virginia
 
 ---

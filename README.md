@@ -14,26 +14,17 @@ This work was completed for **Risk Averse, LLC**, an independent risk analysis c
 
 ## Repository Contents
 
-```
-├── Garcia_Project4_Final.ipynb          # Main Python code file
-├── Garcia_Project4_ACD.xlsx             # Annotated Code Document
-├── NRI_Table_CensusTracts_Louisiana.csv # Raw NRI data – Louisiana
-├── NRI_Table_CensusTracts_Virginia.csv  # Raw NRI data – Virginia
-├── Louisiana.csv                        # Raw SVI data – Louisiana
-├── Virginia.csv                         # Raw SVI data – Virginia
-├── NRIDataDictionary.csv                # NRI variable definitions
-├── NRI_Shapefile_CensusTracts.shp       # NRI shapefile (+ companion files)
-├── Project4_Cleaned_Louisiana.csv       # Cleaned & scored output – Louisiana
-├── Project4_Cleaned_Virginia.csv        # Cleaned & scored output – Virginia
-├── Figure1_Louisiana_County_Risk.png    # Bar chart – Louisiana county comparison
-├── Figure2_Virginia_County_Risk.png     # Bar chart – Virginia county comparison
-├── Figure3_Louisiana_Rating_Distribution.png  # Rating distribution – Louisiana
-├── Figure4_Virginia_Rating_Distribution.png   # Rating distribution – Virginia
-├── Map1_Louisiana_NRI.png               # Map – Louisiana NRI Risk Score
-├── Map2_Louisiana_SPCHL.png             # Map – Louisiana SPCHL Risk Score
-├── Map3_Virginia_NRI.png                # Map – Virginia NRI Risk Score
-└── Map4_Virginia_SPCHL.png              # Map – Virginia SPCHL Risk Score
-```
+* **`Garcia_Project4_Final.ipynb`**         # Main Python code file
+* **`Garcia_Project4_ACD.xlsx`**         # Annotated Code Document
+* **`NRI_Table_CensusTracts_Louisiana.csv`** # Raw NRI data – Louisiana
+* **`NRI_Table_CensusTracts_Virginia.csv`**  # Raw NRI data – Virginia
+* **`Louisiana.csv`**                        # Raw SVI data – Louisiana
+* **`Virginia.csv`**                         # Raw SVI data – Virginia
+* **`NRIDataDictionary.csv`**                # NRI variable definitions
+* **`NRI_Shapefile_CensusTracts.shp`**       # NRI shapefile (+ companion files)
+* **`Project4_Cleaned_Louisiana.csv`**       # Cleaned & scored output – Louisiana
+* **`Project4_Cleaned_Virginia.csv`**        # Cleaned & scored output – Virginia
+
 
 ---
 
